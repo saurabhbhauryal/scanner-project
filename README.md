@@ -11,3 +11,7 @@ THINGS I LEARNED FROM IT-
 
 When you create project you learn a lot , earlier i could not use the chrome dev tools perfectly but this little project helped me in doing that.
 I also learned about the commenting tags in HTML and CSS
+
+YOU CAN VIEW THE PROJECT HERE
+
+scanner-project-seven.vercel.app
