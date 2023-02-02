@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+/* this is parent div */
+.larger-box{
+
+    background-color:hsl(300, 55%, 92%);
+     width:800px;
+     height: 600px;
+    
+     margin: 158px;
+     padding: 30px;
+     padding-left: 173px;
+ }
+/* the main content lies here */
+.main-container{
+
+height: 320px;
+width:200px;
+background-color: hsl(0, 0%, 100%);
+margin: 100px;
+border-radius: 10px;
+
+
+}
+/* main image of the scaner */
+
+.main-image{
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+}
+/* text in larger font */
+.main-para{
+   
+    margin:20px 20px 20px;
+ 
+    font-size: small;
+
+
+
+}
+/* text in lighter font */
+
+.light-text{
+    font-size:x-small;
+    margin:20px 20px 20px;
+    font-weight: 50;
+}
+
